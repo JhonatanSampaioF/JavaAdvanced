@@ -1,4 +1,4 @@
-package domains;
+package com._tdspr.jhonatan.domains;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

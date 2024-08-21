@@ -1,6 +1,6 @@
-package usecases;
+package com._tdspr.jhonatan.usecases;
 
-import domains.Aluno;
+import com._tdspr.jhonatan.domains.Aluno;
 
 public interface CadastrarAluno {
 

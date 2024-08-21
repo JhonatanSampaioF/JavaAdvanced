@@ -1,4 +1,4 @@
-package gateways.responses;
+package com._tdspr.jhonatan.gateways.responses;
 
 import lombok.Builder;
 import lombok.Data;

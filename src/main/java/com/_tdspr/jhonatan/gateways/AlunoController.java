@@ -1,7 +1,7 @@
-package gateways;
+package com._tdspr.jhonatan.gateways;
 
-import domains.Aluno;
-import gateways.requests.AlunoPostRequest;
+import com._tdspr.jhonatan.domains.Aluno;
+import com._tdspr.jhonatan.gateways.requests.AlunoPostRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
