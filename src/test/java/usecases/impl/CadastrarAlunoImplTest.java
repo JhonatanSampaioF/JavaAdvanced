@@ -1,12 +1,11 @@
 package usecases.impl;
 
-import domains.Aluno;
+import com._tdspr.jhonatan.domains.Aluno;
+import com._tdspr.jhonatan.usecases.impl.CadastrarAlunoImpl;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import usecases.CadastrarAluno;
-
-import static org.junit.jupiter.api.Assertions.*;
+import com._tdspr.jhonatan.usecases.CadastrarAluno;
 
 class CadastrarAlunoImplTest {
 

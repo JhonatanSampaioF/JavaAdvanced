@@ -1,6 +1,6 @@
-package usecases;
+package com._tdspr.jhonatan.usecases;
 
-import domains.Professor;
+import com._tdspr.jhonatan.domains.Professor;
 
 public interface CadastrarProfessor {
 

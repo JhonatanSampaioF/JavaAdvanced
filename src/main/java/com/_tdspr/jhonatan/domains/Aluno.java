@@ -1,4 +1,4 @@
-package domains;
+package com._tdspr.jhonatan.domains;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package usecases.impl;
+package com._tdspr.jhonatan.usecases.impl;
 
-import domains.Aluno;
-import usecases.CadastrarAluno;
+import com._tdspr.jhonatan.usecases.CadastrarAluno;
+import com._tdspr.jhonatan.domains.Aluno;
 
 public class CadastrarAlunoImpl implements CadastrarAluno {
     @Override

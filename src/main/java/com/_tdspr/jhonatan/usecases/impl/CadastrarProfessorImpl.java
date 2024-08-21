@@ -1,7 +1,7 @@
-package usecases.impl;
+package com._tdspr.jhonatan.usecases.impl;
 
-import domains.Professor;
-import usecases.CadastrarProfessor;
+import com._tdspr.jhonatan.usecases.CadastrarProfessor;
+import com._tdspr.jhonatan.domains.Professor;
 
 public class CadastrarProfessorImpl implements CadastrarProfessor {
     @Override

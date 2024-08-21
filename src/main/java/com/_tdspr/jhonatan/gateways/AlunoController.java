@@ -1,6 +1,6 @@
-package gateways;
+package com._tdspr.jhonatan.gateways;
 
-import domains.Aluno;
+import com._tdspr.jhonatan.domains.Aluno;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
